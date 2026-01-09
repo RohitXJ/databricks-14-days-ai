@@ -26,11 +26,11 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | Day | Focus Area | Key Takeaway |
 |:---:|:---|:---|
 | 01 | Setup & Workspace | Initialized Databricks clusters and community edition. |
-| 02 | [Topic] | [Learning Summary] |
+| 02 | Data Loading | Configured Kaggle credentials, loaded e-commerce data from CSV files using shell commands, and explored the dataset using Spark SQL. |
 
 ---
 ### 🔗 Connect with me
 I'm documenting this journey daily on LinkedIn. Let's connect!
 👉 [Rohit Gomes on LinkedIn](https://www.linkedin.com/in/rohit-gomes-12209620a)
 
-#DatabricksWithIDC #Codebasics #AIReset #MLOps
+#DatabricksWithIDC #Codebasics #AIReset #MLOps| Day | Focus Area | Key Takeaway |
