@@ -13,7 +13,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 01](./Day01) - Introduction & Environment Setup
 * [Day 02](./Day02) - Databricks Architecture & Workspace
 * [Day 03](./Day03) - PySpark Transformations Deep Dive
-* [Day 04](./Day04) - ...
+* [Day 04](./Day04) - Delta Lake Introduction
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -28,6 +28,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 01 | Setup & Workspace | Initialized Databricks clusters and community edition. |
 | 02 | Data Loading | Configured Kaggle credentials, loaded e-commerce data from CSV files using shell commands, and explored the dataset using Spark SQL. |
 | 03 | PySpark Transformations | Used window functions for running totals, created derived features with joins, and calculated time-based features. |
+| 04 | Delta Lake | Converted CSV to Delta format, enforced schema, and handled upserts with MERGE. |
 
 ---
 ### 🔗 Connect with me
