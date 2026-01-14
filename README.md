@@ -15,6 +15,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 03](./Day03) - PySpark Transformations Deep Dive
 * [Day 04](./Day04) - Delta Lake Introduction
 * [Day 05](./Day05) - Delta Lake Advanced
+* [Day 06](./Day06) - Medallion Architecture
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -31,6 +32,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 03 | PySpark Transformations | Used window functions for running totals, created derived features with joins, and calculated time-based features. |
 | 04 | Delta Lake | Converted CSV to Delta format, enforced schema, and handled upserts with MERGE. |
 | 05 | Delta Lake Advanced | Performed incremental MERGE, time travel, OPTIMIZE, and VACUUM. |
+| 06 | Medallion Architecture | Implemented Bronze, Silver, and Gold layers for data processing. |
 
 ---
 ### 🔗 Connect with me
