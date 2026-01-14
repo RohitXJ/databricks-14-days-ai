@@ -14,6 +14,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 02](./Day02) - Databricks Architecture & Workspace
 * [Day 03](./Day03) - PySpark Transformations Deep Dive
 * [Day 04](./Day04) - Delta Lake Introduction
+* [Day 05](./Day05) - Delta Lake Advanced
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -29,6 +30,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 02 | Data Loading | Configured Kaggle credentials, loaded e-commerce data from CSV files using shell commands, and explored the dataset using Spark SQL. |
 | 03 | PySpark Transformations | Used window functions for running totals, created derived features with joins, and calculated time-based features. |
 | 04 | Delta Lake | Converted CSV to Delta format, enforced schema, and handled upserts with MERGE. |
+| 05 | Delta Lake Advanced | Performed incremental MERGE, time travel, OPTIMIZE, and VACUUM. |
 
 ---
 ### 🔗 Connect with me
