@@ -16,6 +16,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 04](./Day04) - Delta Lake Introduction
 * [Day 05](./Day05) - Delta Lake Advanced
 * [Day 06](./Day06) - Medallion Architecture
+* [Day 07](./Day07) - Workflows & Job Orchestration
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -33,6 +34,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 04 | Delta Lake | Converted CSV to Delta format, enforced schema, and handled upserts with MERGE. |
 | 05 | Delta Lake Advanced | Performed incremental MERGE, time travel, OPTIMIZE, and VACUUM. |
 | 06 | Medallion Architecture | Implemented Bronze, Silver, and Gold layers for data processing. |
+| 07 | Workflows & Job Orchestration | Parameterized notebooks with widgets and created a multi-task job to automate the Bronze -> Silver -> Gold pipeline. |
 
 ---
 ### 🔗 Connect with me
