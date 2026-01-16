@@ -17,6 +17,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 05](./Day05) - Delta Lake Advanced
 * [Day 06](./Day06) - Medallion Architecture
 * [Day 07](./Day07) - Workflows & Job Orchestration
+* [Day 08](./Day08) - Unity Catalog Governance
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -35,6 +36,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 05 | Delta Lake Advanced | Performed incremental MERGE, time travel, OPTIMIZE, and VACUUM. |
 | 06 | Medallion Architecture | Implemented Bronze, Silver, and Gold layers for data processing. |
 | 07 | Workflows & Job Orchestration | Parameterized notebooks with widgets and created a multi-task job to automate the Bronze -> Silver -> Gold pipeline. |
+| 08 | Unity Catalog Governance | Used Unity Catalog to create schemas, manage table permissions with `GRANT`/`REVOKE`, and implemented row-level security using a secure view. |
 
 ---
 ### 🔗 Connect with me
