@@ -18,6 +18,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 06](./Day06) - Medallion Architecture
 * [Day 07](./Day07) - Workflows & Job Orchestration
 * [Day 08](./Day08) - Unity Catalog Governance
+* [Day 09](./Day09) - SQL Analytics & Dashboards
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -37,6 +38,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 06 | Medallion Architecture | Implemented Bronze, Silver, and Gold layers for data processing. |
 | 07 | Workflows & Job Orchestration | Parameterized notebooks with widgets and created a multi-task job to automate the Bronze -> Silver -> Gold pipeline. |
 | 08 | Unity Catalog Governance | Used Unity Catalog to create schemas, manage table permissions with `GRANT`/`REVOKE`, and implemented row-level security using a secure view. |
+| 09 | SQL Analytics & Dashboards | Created a mock dataset and used advanced SQL (window functions, CTEs) to analyze revenue trends, category performance, and sales funnels. |
 
 ---
 ### 🔗 Connect with me
