@@ -20,6 +20,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 08](./Day08) - Unity Catalog Governance
 * [Day 09](./Day09) - SQL Analytics & Dashboards
 * [Day 10](./Day10) - Performance Optimization
+* [Day 11](./Day11) - Statistical Analysis & ML Prep
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -41,6 +42,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 08 | Unity Catalog Governance | Used Unity Catalog to create schemas, manage table permissions with `GRANT`/`REVOKE`, and implemented row-level security using a secure view. |
 | 09 | SQL Analytics & Dashboards | Created a mock dataset and used advanced SQL (window functions, CTEs) to analyze revenue trends, category performance, and sales funnels. |
 | 10 | Performance Optimization | Analyzed query plans, partitioned large tables, applied Z-ordering, and benchmarked performance improvements to understand data skipping. |
+| 11 | Statistical Analysis & ML Prep | Performed statistical analysis, tested hypotheses, and engineered new features (temporal, behavioral) to prepare data for machine learning models. |
 
 ---
 ### 🔗 Connect with me
