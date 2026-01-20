@@ -21,6 +21,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 * [Day 09](./Day09) - SQL Analytics & Dashboards
 * [Day 10](./Day10) - Performance Optimization
 * [Day 11](./Day11) - Statistical Analysis & ML Prep
+* [Day 12](./Day12) - MLflow Basics
 *(Continuing until Day 14)*
 
 ## 🛠 Tech Stack
@@ -43,6 +44,7 @@ I am saving my progress in daily folders containing notebooks (`.ipynb` or `.py`
 | 09 | SQL Analytics & Dashboards | Created a mock dataset and used advanced SQL (window functions, CTEs) to analyze revenue trends, category performance, and sales funnels. |
 | 10 | Performance Optimization | Analyzed query plans, partitioned large tables, applied Z-ordering, and benchmarked performance improvements to understand data skipping. |
 | 11 | Statistical Analysis & ML Prep | Performed statistical analysis, tested hypotheses, and engineered new features (temporal, behavioral) to prepare data for machine learning models. |
+| 12 | MLflow Basics | Used MLflow to track a simple regression model, logging parameters, metrics, and the model artifact. Learned to view and compare experiment runs. |
 
 ---
 ### 🔗 Connect with me
